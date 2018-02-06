@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RnM Fan Quizz</string>
+    <string name="desc">Answer the questions and find out if you are a real Rick and Morty Fan!</string>
+    <string name="qq1">Q1</string>
+    <string name="qq2">Q2</string>
+    <string name="qq3">Q3</string>
+    <string name="qq4">Q4</string>
+    <string name="qq5">Q5</string>
+
+    <string name="question1">What does Rick use to travel between dimensions and universes?</string>
+    <string name="q1a1">Space Laser</string>
+    <string name="q1a2">Portal Gun</string>
+    <string name="q1a3">Tardis</string>
+    <string name="q1a4">Google Assistant</string>
+
+    <string name="question2">What is the name of the planet on which only women live?</string>
+    <string name="q2a1">FeminePlanet</string>
+    <string name="q2a2">MWA 739</string>
+    <string name="q2a3">Gazorpazorp</string>
+    <string name="q2a4">Screaming Sun and Earth</string>
+
+    <string name="question3">What is the item you see on the picture?</string>
+    <string name="q3a1">A weird cabbage</string>
+    <string name="q3a2">A Plumbus</string>
+    <string name="q3a3">A dildo</string>
+    <string name="q3a4">A Dinglepop</string>
+
+    <string name="question4">What is Scary Terry\'s catchphrase?</string>
+    <string name="q4a1">Bitch</string>
+    <string name="q4a2">Ball Fondlers</string>
+    <string name="q4a3">I will kill you!</string>
+    <string name="q4a4">Yabma Yabma</string>
+
+    <string name="question5">Who was the real character but was shot anyways on the episode named Total Rickall</string>
+    <string name="q5a1">Homeless Puppet</string>
+    <string name="q5a2">Mr. Poopybutthole</string>
+    <string name="q5a3">Tinkles</string>
+    <string name="q5a4">Uncle Steve</string>
+    <string name="check_button">Check Answers</string>
+</resources>
